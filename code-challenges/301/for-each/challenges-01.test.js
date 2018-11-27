@@ -16,6 +16,7 @@ const speaker = (message, callback) => {
   return callback(message);
 };
 
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 2
 
@@ -42,6 +43,7 @@ const addNumbers = (num, arr, times, callback) => {
   }
   return arr;
 };
+
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 3
